@@ -182,24 +182,6 @@ i:hover {
 
 /*--------------Haut de page----------------*/
 
-body::before {
-    content: "";
-    z-index: 3;
-    display: block;
-    background-size: cover;
-    width: 100%;
-    height: 90%;
-    -webkit-filter: blur(1px);
-    -moz-filter: blur(8px);
-    -o-filter: blur(8px);
-    -ms-filter: blur(1px);
-    filter: blur(30px);
-}
-
-body {
-    background: url(../assets/arriere2.jpg);
-}
-
 main .grand-titre {
     z-index: 2;
     height: 90vh;
@@ -527,7 +509,9 @@ main .site-content .post-title a {
 /*------------------Footer-------------------------*/
 
 footer.footer {
+    width: 95%;
     height: 100%;
+    margin-left: 2.5%;
     background: rgb(10, 10, 10);
     position: relative;
     color: white;
