@@ -1,0 +1,36 @@
+
+/*------------Font-family----------------------*/
+
+/*------------Font-family: Finger Paint----------------------*/
+@font-face{
+    font-family: Finger Paint;
+    src: url(../fonts/Finger_Paint/FingerPaint-Regular.ttf);
+}
+
+/*------------Font-family: Gloria Hallelujah----------------------*/
+@font-face{
+    font-family: Gloria Hallelujah;
+    src: url(../fonts/Gloria_Hallelujah/GloriaHallelujah-Regular.ttf);
+}
+
+/*------------Font-family: Monoton----------------------*/
+@font-face{
+    font-family: Monoton;
+    src: url(../fonts/Monoton/Monoton-Regular.ttf);
+}
+
+/*------------Font-family: Pacifico----------------------*/
+@font-face{
+    font-family: Pacifico;
+    src: url(../fonts/Pacifico/Pacifico-Regular.ttf);
+}
+
+/*------------Font-family: Finger Paint----------------------*/
+@font-face{
+    font-family: Rock Salt;
+    src: url(../fonts/Rock_Salt/RockSalt-Regular.ttf);
+}
+
+
+
+/*------xx------Font-family----------------xx------*/
