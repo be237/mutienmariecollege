@@ -632,7 +632,7 @@ footer.footer .move-up span:hover {
         text-align: center;
     }
     .nav {
-        min-height: 15vh;
+        min-height: 5vh;
     }
     .nav .amberger {
         display: initial;
@@ -672,6 +672,12 @@ footer.footer .move-up span:hover {
         padding: .3rem .5rem;
         border-radius: 3rem;
         margin: 0.1rem;
+    }
+    .infot {
+        display: none;
+    }
+    .nav {
+        min-height: 5vh;
     }
 }
 
